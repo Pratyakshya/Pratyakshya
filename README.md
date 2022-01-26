@@ -1,8 +1,8 @@
 ### Hi there 👋, I am Pratyakshya Bhakuni
-#### Design and Devlopment
+I'm a computer science engineering student. Machine learning, web development and digital designing are my major interests. I'm also a frequent public speaker. I'm searching for a position where I can put my expertise to the test and grow as a person.
 ![Design and Devlopment](https://raw.githubusercontent.com/Pratyakshya/banner-image/main/github%20banner.png?token=GHSAT0AAAAAABMJRGZZAH3SDRLQFDHYDIKYYPRMJPQ)
 
-I'm a computer science engineering student. Machine learning, web development and digital designing are my major interests. I'm also a frequent public speaker. I'm searching for a position where I can put my expertise to the test and grow as a person.
+
 
 Skills: REACT / JS / HTML / CSS / MATLAB / PYTHON / SQL
 
